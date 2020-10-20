@@ -1,3 +1,6 @@
 function gitTest(){
-	print("123");
+	if(this.node){
+		print("123");
+				
+	}
 }
