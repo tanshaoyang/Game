@@ -1,6 +1,6 @@
 function gitTest(){
-	ad
-	ad
-	asdf
-	zxcv
+	if(this.node){
+		console.log("123");
+				
+	}
 }
