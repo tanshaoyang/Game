@@ -1,5 +1,6 @@
-function gitTest
+function gitTest(){
 	ad
 	ad
-asdf
-zxcv
+	asdf
+	zxcv
+}
