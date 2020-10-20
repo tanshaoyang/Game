@@ -1,6 +1,3 @@
 function gitTest(){
-	ad
-	ad
-	asdf
-	zxcv
+	print("123");
 }
