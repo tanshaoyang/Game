@@ -3,5 +3,5 @@ function gitTest(){
 		print("123");
 		print("123");
 		print("123");
-		print("789");
+		print("456");
 }
